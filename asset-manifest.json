@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tati1129.github.io/hw_11.02.23/static/css/main.4be46699.css",
+    "main.js": "/tati1129.github.io/hw_11.02.23/static/js/main.df0abf71.js",
+    "index.html": "/tati1129.github.io/hw_11.02.23/index.html",
+    "main.4be46699.css.map": "/tati1129.github.io/hw_11.02.23/static/css/main.4be46699.css.map",
+    "main.df0abf71.js.map": "/tati1129.github.io/hw_11.02.23/static/js/main.df0abf71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be46699.css",
+    "static/js/main.df0abf71.js"
+  ]
+}
